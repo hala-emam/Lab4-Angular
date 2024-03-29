@@ -1,0 +1,17 @@
+.btn-buy{
+
+  padding: 7px 60px !important;
+  background-color: #4F81F7 !important;
+}
+.card-body{
+  color:white
+}
+.c-date{
+  background-color: #103778;
+  color: white;
+  padding: 10px;
+}
+.c-date span{
+  color: #64B5F6;
+}
+
